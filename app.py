@@ -1,6 +1,7 @@
 import requests
 import json
 
+questart = test
 # Annahme: Raw-URL der config.json auf GitHub
 CONFIG_URL = "https://raw.githubusercontent.com/DogukanErsungur/config-repo/main/config.json"
 
