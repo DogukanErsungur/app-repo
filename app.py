@@ -1,9 +1,9 @@
 import requests
 import json
 
-amq2amq.routeId=qDOSSOrder_fromNOA_toB2B_B2B
+amq2amq.routeId = qDOSSOrder_fromNOA_toB2B_B2B
 
-amq2amq.to-queue=weblogic.jms.qDOSSOrder_fromNOA_toB2B
+amq2amq.to-queue = weblogic.jms.qDOSSOrder_fromNOA_toB2B
 
 
 questart = test
